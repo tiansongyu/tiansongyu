@@ -1,4 +1,4 @@
-### Hi there 👋 (this is a WIP)
+### Hi there 👋 
 
 ![tiansongyu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiansongyu&show_icons=true&count_private=true)
 <!--
